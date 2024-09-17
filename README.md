@@ -7,7 +7,7 @@ Identify the most purchased genre for each country.
 Perform aggregations to understand customer preferences based on genre and country.
 Provide insights into sales trends for business decisions.
 
-Database and Tools
+Database and Tools<br/>
 Postgre SQL
 PgAdmin4
 Schema- Store Database
